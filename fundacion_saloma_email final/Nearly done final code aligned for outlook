@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundación Saloma</title>
+    <style type="text/css">
+        /* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+
+        table {
+         border-spacing: 0;
+      }
+      td {
+         padding: 0;
+      }
+      p {
+         font-size: 15px;
+      }
+      img {
+         border: 0;
+      }
+      a {
+         color: #e8fbfa;
+         text-decoration: none;
+      }
+                  @media only screen and (max-width: 600px) {
+                      .width100 { width: 100% !important;
+
+                      }
+                      .top { display: table-header-group !important; width: 100% !important;}
+         .bottom { display: table-footer-group !important; width: 100% !important;}
+         .block { display: block !important; width: 100% !important; }
+
+
+         .main-table {
+             Margin-bottom: 0;
+             Margin-top: 0;
+         }
+
+         .logo {
+             object-fit: contain;
+         }
+
+         .banner-image {
+             object-fit: cover;
+         }
+
+         .image1 {
+             padding: 0;
+             width: 400px;
+             height: 400px;
+             
+         }
+
+            body{ font-size: 25px;}
+        
+
+                   
+         .text {
+             
+            padding: 0px 80px;
+             text-align: center;
+             font-size: 100px;
+         }
+         
+         .bold-text {
+            Margin-top: 40px;
+             text-align: center;
+             
+             
+
+         }
+
+         
+         
+
+         .bold-text2 {
+             Margin-top: 30px;
+             text-align: center;
+             color: red;
+             font-size: 50px;
+
+         }
+            
+         .btn {
+             width: 100%;
+             text-align: center !important;
+            
+             
+         }
+         .button {
+             width: 100%;
+             text-align: center;
+            
+          
+            
+            
+             
+         }
+                  }
+      </style>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: rgb(119, 119, 119);">
+    <!--Start of Encapsulating Table-->
+    <table cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="background-color: #ebecf0;"> 
+        <tr>
+            <td>
+                               <!--Start of Inner Whole Table-->
+                               <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="background-color: #fbf7f7; Margin-top: 50px; Margin-bottom: 50px;" class="width100 main-table">
+                                <tr>
+                                    <td >
+                                        <!--Start of Banner section-->
+            
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table width="600" align="center">
+                                        <tr>
+                                            <td width="300">
+                                                
+                                                
+                                                <![endif]-->
+                                <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" class="banner" height="300" style="width: 600px; height: 300px;" >
+                                    <tr>
+                                        <td class="width100">
+                                            <!--Start of Left Column-->
+                                            <table cellspacing="0" cellpadding="0" border="0" align="left" width="250" height="400"  style="width: 250px; height: 300px; background-color: #8064a1;" class="">
+                                                <tr>
+                                                    <td style="display: block;">
+                                                        <img src="https://i.postimg.cc/W46LgpTZ/fundacion-saloma-logo1.png" width="250" height="300" class="logo" style="display: block; object-fit: contain;">
+                                                    </td>
+                                                </tr>
+                                            </table>
+            
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                        <td width="300">
+                                           
+            
+                                           
+                                            
+                                            <![endif]-->
+            
+            
+                                            <!--End of Left Column-->
+            
+                                            <!--Banner Start of Right Column-->
+            
+                   
+                                            <table cellspacing="0" cellpadding="0" border="0" align="right" width="350" height="300"  style="width: 350px; height: 300px; background-color: #8064a1;">
+                                                <tr>
+                                                    <td style="display: block;">
+                                                        <img src="https://i.postimg.cc/66jnW9rM/fundacion-saloma-banner.png" width="350" height="300" class="banner-image" style="display: block; object-fit: cover;">
+                                                    </td>
+                                                </tr>
+                                            </table>
+            
+                                            <!--[if (gte mso 9) | (IE)]>
+                                                
+                                            </td>
+                                        </tr>
+                                    </table>
+                                <![endif]-->
+                                            <!--End of Right Column-->
+
+                            <!-- Start Nuestra vision/que ofrecemos-->
+                            
+
+                            <table  cellspacing="0" cellpadding="0" border="0" align="center" width="600"class="width100">
+                                <tr>
+                                    <td align="center" style="padding-top: 10px;">
+                                        <h1 style="color: #9e64a1; font-size: 40px;">¿Quiénes somos?</h1>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="padding: 0px 25px; text-align: justify; font-family: Arial, Helvetica, sans-serif; line-height: 1.2;">
+                                        <p >SAE A.C. tiene como base brindar capacitación y asistencia técnica para la concientización sobre temas de educación, salud y bienestar a personas vulnerables ofreciendo educación de calidad para tod@s.</p>
+                                        
+                                        <p>
+                                            Nuestros programas son completamente gratuitos y aceptamos donativos que nos ayudan a seguir apoyando a las comunidades que servimos.  </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="padding-bottom: 30px;">
+                                        <h1 style="color: #9e64a1; font-size: 40px;">Que ofrecemos...</h1>
+                                    </td>
+                                </tr>
+
+                            </table>
+                            <!--Example Button Start-->
+                            
+                            
+
+                            <!--Example Button End-->
+
+                            <!--End Nuestra vision/que ofrecemos-->
+                            
+
+                            <!--Start of Rows-->
+
+                           <!--Start of First Row-->
+
+                           <table cellpadding="0" cellspacing="0" border="0" role="presentation" width="600" align="center">
+                            <tr>
+                                <!--Start of Left Column-->
+                                
+                                  <td class="bottom" width="300" style="padding-top: 0px; padding-bottom: 0px; padding-right: 5px; padding-left: 12px;">
+                                   
+                                    <p  class="text bold-text" style="font-weight: 600; font-size: 14px;">Programa de Higiene y Salud Menstrual </p>
+
+                                
+
+                                    <p class="text" style=" font-size: 14px; ">
+                                        El objetivo de este programa es sensibilizar, capacitar y crear acceso a insumos mentruales ecologicos para  la gestión de una menstruación digna. 
+                                    </p>
+                                          <!--Start of Button-->
+                                          
+                                                   
+																		<!--[if (gte mso 9)|(IE)]>
+                              <table style="padding-bottom: 60px;" role="presentation">
+                             
+                           <![endif]-->
+                                           
+                                          
+                                          <table  cellpadding="0" cellspacing="0" role="presentation" class="button" >
+                                            <tr>
+                                                <td style="padding: 0px 10px 0px 0px;" align="left" class="button" >
+                                                   <table cellpadding="0" cellspacing="0" style=" padding: 0px 0px 90px 0px;" role="presentation" class="button">
+                                                      <tr>
+                                                         <td style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                         background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 0px 0px; display: inline-block;" > 
+                                                            <a href="https://www.fundacionsalomaac.org.mx/educacion/" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                            background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 12px 30px; display: inline-block;">Contacténos</a>
+                                                         </td>
+                                 
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                            </tr>
+                                      </table>
+                                      
+                                       	<!--[if (gte mso 9)|(IE)]>
+                              </table>
+                              
+                           <![endif]-->
+                                               
+                                            
+                                        <!--End of Button--> 
+                                        
+                                   
+                                           
+                                  </td>
+
+                                 
+                                  
+
+                                  <!--Start of Right Column-->
+                                 
+                                 
+                                  <td class="top" align="center" width="300">
+                                    
+                                        <img  class="image1" src="https://i.postimg.cc/9Q340zrY/saloma-email1.png" width="275" height="235" style="object-fit: cover;" >
+                                    
+                                  </td>
+                            </tr>
+                       </table>
+
+                       <!--End of First Row-->
+
+                              <!--Start of Row 2-->
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:600px; Margin-top: 20px;" class="table-row">
+                                <tr>
+                                     <td class="block" align="center"  width="300">
+                                        <img src="https://i.postimg.cc/9Q340zrY/saloma-email1.png" width="275" height="235" class="image1" style="object-fit: cover;">
+                                   </td>
+
+                                   
+                                   <td class="block" align="left" style=" padding: 0px 12px 30px 14px;" width="50%">
+                                    <p class="text bold-text" style="font-weight: 600; font-size: 14px; padding-top: 0px; padding-bottom: 0px;">Programa de Lectura en Voz Alta en Inglés y Español </p>
+                                    
+                                                
+                                    <p class="text" style="font-size: 14px;  ">
+                                        Este programa trae al autor a su escuela y los estudiantes interactúan con el autor, desarrollando su curiosidad y fomentando la imaginación y la curiosidad. Contáctenos ahora para más información sobre los beneficios de la lectura en voz alta.
+                                    </p>
+                                        <!--Start of Button-->
+                                        
+															
+                                        
+                                        <table  cellpadding="0" cellspacing="0" role="presentation" class="button" >
+                                            <tr>
+                                                <td style="padding: 0px 10px 0px 0px;" align="left" class="button" >
+                                                   <table cellpadding="0" cellspacing="0" style=" padding: 0px 0px 20px 0px;" role="presentation" class="button">
+                                                      <tr>
+                                                         <td style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                         background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 0px 0px; display: inline-block;" > 
+                                                            <a href="https://www.fundacionsalomaac.org.mx/educacion/" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                            background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 12px 30px; display: inline-block;">Contacténos</a>
+                                                         </td>
+                                 
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                            </tr>
+                                      </table>
+                                      
+                                      
+                                        
+                                   
+                                </td>
+                                </tr>
+                            </table>
+
+                            <!--End of Row 2-->
+
+                            <!--Start of Row 3-->
+
+                           <table cellpadding="0" cellspacing="0" border="0" role="presentation" width="600" align="center" >
+                            <tr>
+                                <!--Start of Left Column-->
+                                
+                                  <td class="bottom" width="300" style="padding-top: 25px; padding-bottom: 0px; padding-right: 5px; padding-left: 12px;">
+                                   
+                                    <p  class="text bold-text" style="font-weight: 600; font-size: 14px;">Cursos Intensivos de Inglés (todos niveles) </p>
+
+                                
+
+                                    <p class="text" style=" font-size: 14px; ">
+                                        Ofrecemos cursos intensivos de Inglés a escuelas primarias y secundarias publicas. Nuestros cursos son diseñados para cada escuela y contamos con maestros calificados y con años de experiencia.
+                                    </p>
+                                          <!--Start of Button-->
+                                          
+                                                          
+																		<!--[if (gte mso 9)|(IE)]>
+                              <table style="padding-bottom: 60px;" role="presentation">
+                             
+                           <![endif]-->
+                                          <table  cellpadding="0" cellspacing="0" role="presentation" class="button" >
+                                            <tr>
+                                                <td style="padding: 0px 10px 0px 0px;" align="left" class="button" >
+                                                   <table cellpadding="0" cellspacing="0" style=" padding: 0px 0px 90px 0px;" role="presentation" class="button">
+                                                      <tr>
+                                                         <td style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                         background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 0px 0px; display: inline-block;" > 
+                                                            <a href="https://www.fundacionsalomaac.org.mx/educacion/" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                            background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 12px 30px; display: inline-block;">Aprende más</a>
+                                                         </td>
+                                 
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                            </tr>
+                                      </table>
+                                      
+                                      
+                                       	<!--[if (gte mso 9)|(IE)]>
+                              </table>
+                              
+                           <![endif]-->
+                                        <!--End of Button--> 
+                                           
+                                           
+                                  </td>
+
+                                 
+                                  
+
+                                  <!--Start of Right Column-->
+                                 
+                                 
+                                  <td class="top" align="center" width="300">
+                                    
+                                        <img  class="image1" src="https://i.postimg.cc/9Q340zrY/saloma-email1.png" width="275" height="235" style="object-fit: cover;">
+                                    
+                                  </td>
+                            </tr>
+                       </table>
+
+                       <!--End of Row 3-->
+
+                              <!--Start of Row 4-->
+
+                              <!--Start of Left Column-->
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:600px; Margin-top: 20px;" class="table-row">
+                                <tr valign="">
+                                     <td class="block" align="center"  width="300">
+                                        <img src="https://i.postimg.cc/V6zZ8YqY/saloma-teaching.png" width="275" height="235" class="image1" style="object-fit: cover;">
+                                   </td>
+                                <!--End of Left Column-->
+
+                                <!--Start of Second Column-->
+                                   
+                                   <td class="block" align="left" style=" padding: px 12px 56px 14px;" width="50%">
+                                    <p class="text bold-text" style="font-weight: 600; font-size: 14px; padding-top: 0px; padding-bottom: 0px;">Capacitación a docentes (Talleres didáctico-pedagógicos). </p>
+                                    
+                                                
+                                    <p class="text" style="font-size: 14px;  ">
+                                        A docentes, personas, instituciones interesadas en la enseñanza-aprendizaje del idioma Inglés como Lengua Extranjera con instructores reconocidos a nivel internacional.
+                                    </p>
+
+                                    <!--End of Second Column-->
+                                        <!--Start of Button-->
+                                        
+
+                                        <table  cellpadding="0" cellspacing="0" role="presentation" class="button" >
+                                            <tr>
+                                                <td style="padding: 0px 10px 0px 0px;" align="left" class="button" >
+                                                   <table cellpadding="0" cellspacing="0" style=" padding: 0px 0px 20px 0px;" role="presentation" class="button">
+                                                      <tr>
+                                                         <td style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                         background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 0px 0px; display: inline-block;" > 
+                                                            <a href="https://www.fundacionsalomaac.org.mx/educacion/" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: white;
+                                                            background-color:#9e64a1; border: 1px solid #9e64a1;border-radius: 0px;  padding: 12px 30px; display: inline-block;">Actualizate ahora!</a>
+                                                         </td>
+                                 
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                            </tr>
+                                      </table>
+                                        
+                                   
+                                </td>
+                                </tr>
+                            </table>
+
+                            <!--End of Row 4-->
+
+
+                            
+                            
+                            
+                            <!--Social Media Icons Start-->
+
+                            <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" class="width100" style="padding-top: 40px;">
+                            
+                                <tr>
+                                    <td align="center" height="2" width="500" style="Margin: auto;  display:block; background-color: #9e64a1;"></td>
+                                </tr>
+
+                            <tr>
+                               <td>
+                            <table cellspacing="0" cellpadding="0" border="0" align="center" width="200" class="width100" style="padding: 10px 0px;">
+                                <tr>
+                                    <td align="center"><a  href="https://www.facebook.com/FundacionSalomaAC" target=_"blank"> <img src="https://i.postimg.cc/sgscVRG5/icons8-facebook-144.png" width=45 ></a></td>
+                                    <td align="center"><a  href="https://www.instagram.com/fundacion_saloma/" target=_"blank"><img src=" https://i.postimg.cc/T2bhCLN3/icons8-instagram-144.png" width=45 ></a></td>
+                                    <td align="center"><a href="https://www.linkedin.com/company/fundaci%C3%B3n-saloma-para-el-avance-de-la-educaci%C3%B3n-a-c/" target=_"blank"><img src="https://i.postimg.cc/k4fsHYgW/icons8-linkedin-144.png" width=45 ></a></td>
+                                </tr>
+                            </td>
+                        </tr>
+
+                               
+
+                            </table>
+                            <tr>
+                                <td align="center" height="2" width="500" style="Margin: auto;  display:block; background-color: #9e64a1;"></td>
+                            </tr>
+                        
+                            <!--Start of Footer-->
+
+                            <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" class="width100" style="padding: 40px 50px; text-align: justify;">
+                                <tr>
+                                    <td>
+                                        <p style="font-size: 10px;">Este correo electrónico y/o el material adjunto son para uso exclusivo de la persona o entidad a la que expresamente se le ha enviado, y puede contener información confidencial o material privilegiado. Si usted no es el destinatario legítimo del mismo, por favor repórtelo inmediatamente al remitente del correo y bórrelo. Cualquier revisión, retransmisión, difusión o cualquier otro uso de este correo, por personas o entidades distintas a las del destinatario legítimo, queda expresamente prohibido. Este correo electrónico no pretende ni debe ser considerado como constructivo de ninguna relación legal, contractual o de otra índole similar.</p>
+                                    </td>
+                                </tr>
+                            
+                            </table>
+
+                            
+                             
+                             
+
+                            </table>
+
+
+                             <!--Social Media Icons End-->
+
+                            
+         
+
+                           
+
+
+                    
+                           
+
+
+
+                        </td>
+                    </tr>
+                </table>
+                <!--End of Inner Whole Table-->
+            </td>
+        </tr>
+
+    </table>
+    <!--End of Encapsulating Table-->
+</body>
+</html>
